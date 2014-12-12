@@ -1,0 +1,4 @@
+C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp\VS2010\MyLibrary_VS2010\bin\Debug\MyLibrary_VS2010.dll
+C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp\VS2010\MyLibrary_VS2010\bin\Debug\MyLibrary_VS2010.pdb
+C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp\VS2010\MyLibrary_VS2010\obj\x86\Debug\MyLibrary_VS2010.dll
+C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp\VS2010\MyLibrary_VS2010\obj\x86\Debug\MyLibrary_VS2010.pdb

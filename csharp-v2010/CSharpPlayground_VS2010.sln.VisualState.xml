@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CSharpPlayground_VS2010.sln</TopNode>
+  <SelectedNode>[0-1000]C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CSharpPlayground_VS2010.sln</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CSharpPlayground_VS2010.sln" Expanded="true" />
+    <Node UniqueName="[0-1003]C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcAddTest_VS2010\bin\Debug\CalcAddTest_VS2010.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]CalcAddTest" Expanded="true" />
+    <Node UniqueName="[0-1001]CalcAddTest.AddTest" Expanded="true" />
+    <Node UniqueName="[0-1007]C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcDivideTest_VS2010\bin\Debug\CalcDivideTest_VS2010.dll" Expanded="true" />
+    <Node UniqueName="[0-1008]CalcDivideTest" Expanded="true" />
+    <Node UniqueName="[0-1005]CalcDivideTest.DivideTest" Expanded="true" />
+    <Node UniqueName="[0-1011]C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcMultiplyTest_VS2010\bin\Debug\CalcMultiplyTest_VS2010.dll" Expanded="true" />
+    <Node UniqueName="[0-1012]CalcMultiplyTest_VS2010" Expanded="true" />
+    <Node UniqueName="[0-1009]CalcMultiplyTest_VS2010.MultiplyTest" Expanded="true" />
+  </Nodes>
+</VisualState>

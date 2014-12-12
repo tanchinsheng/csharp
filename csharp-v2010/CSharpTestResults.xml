@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Summary numSequencePoints="174" visitedSequencePoints="71" numBranchPoints="58" visitedBranchPoints="23" sequenceCoverage="40.80" branchCoverage="39.66" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="E9-A8-6A-CC-31-FF-25-91-E6-86-F2-D5-72-EE-77-7D-AB-36-F0-0B">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="69-FA-36-8C-34-2E-86-DF-D0-A9-F9-D5-D6-F7-AE-FC-7C-96-72-40">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\MSTest.exe</FullName>
+      <ModuleName>MSTest</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-46-4B-BE-28-40-30-A2-E6-52-58-36-C3-F3-E3-75-03-AF-F4-FC">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="0F-07-95-F4-06-60-B0-91-D8-2F-F7-51-A7-F3-27-5B-67-A8-E7-2A">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.ExecutionCommon\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.ExecutionCommon</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="DF-41-96-FA-37-22-C0-47-06-73-92-94-39-3E-F8-9C-71-77-58-80">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Resource\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Resource.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Resource</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-6E-E8-4F-40-6A-75-31-1B-08-C2-22-D5-EA-FE-23-3B-7B-82-15">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2E-28-A3-E7-4F-05-75-91-3B-B4-A6-B7-58-E7-27-B0-EF-F7-52-11">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="BF-25-2F-2D-9C-93-63-C7-10-D2-E5-E7-8A-58-EB-22-5B-0C-F5-0F">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.CommandLine\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.CommandLine.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.CommandLine</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="A0-06-B7-B5-0A-91-98-28-EB-06-FC-0C-AB-4E-8B-FC-87-73-A2-47">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.TMI\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.TMI.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.TMI</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="83-92-A6-61-AB-24-2D-60-6E-B3-F0-4C-6A-F3-38-AF-4E-6E-B8-30">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll</FullName>
+      <ModuleName>System.Data</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="5F-95-A9-21-AF-EF-CF-27-26-37-79-95-73-81-7A-A3-5F-E6-5D-E7">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll</FullName>
+      <ModuleName>System.Numerics</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="ED-71-AA-D1-28-9F-3A-03-35-2F-8B-6F-2D-56-17-E0-2A-D3-EF-A3">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F0-AC-29-46-F9-CE-FF-96-AE-EE-4F-C0-DE-9E-59-D3-7E-1B-ED-08">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</FullName>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="70-0C-80-41-7B-A9-6E-D6-6D-57-D4-7E-90-9D-53-BE-EF-10-D1-31">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AF-05-8D-43-E3-DA-AB-39-5E-1C-C1-7D-03-30-C2-CD-51-4C-F7-2E">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="1A-8E-7F-63-79-81-73-62-C8-B6-77-39-F8-97-1B-CB-6B-2B-67-76">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.UnitTestFramework\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.UnitTestFramework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="BD-91-25-5D-5B-40-91-44-C6-CC-30-E7-84-09-1F-EC-32-46-EF-F1">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="70-0C-80-41-7B-A9-6E-D6-6D-57-D4-7E-90-9D-53-BE-EF-10-D1-31">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AF-05-8D-43-E3-DA-AB-39-5E-1C-C1-7D-03-30-C2-CD-51-4C-F7-2E">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="06-1B-19-84-D1-63-F4-8D-A6-F1-31-7C-95-24-C2-2B-AC-C8-8C-C9">
+      <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="5" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+      <FullName>C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcAddTest_VS2010\bin\Debug\CalcAddTest_VS2010.dll</FullName>
+      <ModuleName>CalcAddTest_VS2010</ModuleName>
+      <Files>
+        <File uid="1" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcAddTest_VS2010\AddTest.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="5" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>CalcAddTest_VS2010.AddTest</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>Microsoft.VisualStudio.TestTools.UnitTesting.TestContext CalcAddTest_VS2010.AddTest::get_TestContext()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="1" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="2" ordinal="1" offset="1" sl="34" sc="17" el="34" ec="44" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="3" ordinal="2" offset="10" sl="35" sc="13" el="35" ec="14" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="1" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void CalcAddTest_VS2010.AddTest::set_TestContext(Microsoft.VisualStudio.TestTools.UnitTesting.TestContext)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="4" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="5" ordinal="1" offset="1" sl="38" sc="17" el="38" ec="45" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="6" ordinal="2" offset="8" sl="39" sc="13" el="39" ec="14" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="4" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void CalcAddTest_VS2010.AddTest::.ctor()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="7" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="25" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="8" ordinal="1" offset="7" sl="18" sc="9" el="18" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="9" ordinal="2" offset="8" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="7" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="25" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void CalcAddTest_VS2010.AddTest::TestAdd()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="10" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="11" ordinal="1" offset="1" sl="67" sc="13" el="67" ec="50" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="12" ordinal="2" offset="17" sl="68" sc="9" el="68" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="10" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void CalcAddTest_VS2010.AddTest::TestCallGetContextInAddTest()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="13" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="14" ordinal="1" offset="1" sl="73" sc="13" el="73" ec="47" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="15" ordinal="2" offset="8" sl="74" sc="13" el="74" ec="58" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="16" ordinal="3" offset="21" sl="75" sc="9" el="75" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="13" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="70-0C-80-41-7B-A9-6E-D6-6D-57-D4-7E-90-9D-53-BE-EF-10-D1-31">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AF-05-8D-43-E3-DA-AB-39-5E-1C-C1-7D-03-30-C2-CD-51-4C-F7-2E">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="36-34-7B-E8-BB-85-DC-1F-0C-04-26-EB-9B-A3-24-20-F5-4F-2D-54">
+      <Summary numSequencePoints="23" visitedSequencePoints="0" numBranchPoints="7" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+      <FullName>C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcDivideTest_VS2010\bin\Debug\CalcDivideTest_VS2010.dll</FullName>
+      <ModuleName>CalcDivideTest_VS2010</ModuleName>
+      <Files>
+        <File uid="3" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcDivideTest_VS2010\DivideTest.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="23" visitedSequencePoints="0" numBranchPoints="7" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>CalcDivideTest_VS2010.DivideTest</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>Microsoft.VisualStudio.TestTools.UnitTesting.TestContext CalcDivideTest_VS2010.DivideTest::get_TestContext()</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="17" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="18" ordinal="1" offset="1" sl="34" sc="17" el="34" ec="44" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="19" ordinal="2" offset="10" sl="35" sc="13" el="35" ec="14" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="17" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="3" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::set_TestContext(Microsoft.VisualStudio.TestTools.UnitTesting.TestContext)</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="20" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="21" ordinal="1" offset="1" sl="38" sc="17" el="38" ec="45" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="22" ordinal="2" offset="8" sl="39" sc="13" el="39" ec="14" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="20" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="3" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::.ctor()</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="23" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="28" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="24" ordinal="1" offset="7" sl="18" sc="9" el="18" ec="10" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="25" ordinal="2" offset="8" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="23" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="28" bec="0" bev="0" fileid="3" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::TestDivide()</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="26" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="27" ordinal="1" offset="1" sl="67" sc="13" el="67" ec="53" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="28" ordinal="2" offset="17" sl="68" sc="9" el="68" ec="10" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="26" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="3" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::TestCallGetContextInDivideTest()</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="29" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="30" ordinal="1" offset="1" sl="73" sc="13" el="73" ec="47" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="31" ordinal="2" offset="8" sl="74" sc="13" el="74" ec="58" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="32" ordinal="3" offset="21" sl="75" sc="9" el="75" ec="10" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="29" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="3" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::TestDivisionByZero()</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="33" ordinal="0" offset="0" sl="79" sc="9" el="79" ec="10" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="34" ordinal="1" offset="1" sl="80" sc="13" el="80" ec="31" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="35" ordinal="2" offset="9" sl="81" sc="9" el="81" ec="10" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="33" ordinal="0" offset="0" sl="79" sc="9" el="79" ec="10" bec="0" bev="0" fileid="3" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::TestCallHorribleCode()</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="36" ordinal="0" offset="0" sl="85" sc="9" el="85" ec="10" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="37" ordinal="1" offset="1" sl="86" sc="13" el="86" ec="28" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="38" ordinal="2" offset="3" sl="87" sc="13" el="87" ec="44" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="39" ordinal="3" offset="11" sl="88" sc="9" el="88" ec="10" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="36" ordinal="0" offset="0" sl="85" sc="9" el="85" ec="10" bec="0" bev="0" fileid="3" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="70-0C-80-41-7B-A9-6E-D6-6D-57-D4-7E-90-9D-53-BE-EF-10-D1-31">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AF-05-8D-43-E3-DA-AB-39-5E-1C-C1-7D-03-30-C2-CD-51-4C-F7-2E">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="BB-04-95-33-15-63-A8-DB-BE-DD-4B-6F-78-0D-26-C3-BE-8C-14-60">
+      <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="5" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+      <FullName>C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcMultiplyTest_VS2010\bin\Debug\CalcMultiplyTest_VS2010.dll</FullName>
+      <ModuleName>CalcMultiplyTest_VS2010</ModuleName>
+      <Files>
+        <File uid="5" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcMultiplyTest_VS2010\MultiplyTest.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="5" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>CalcMultiplyTest_VS2010.MultiplyTest</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>Microsoft.VisualStudio.TestTools.UnitTesting.TestContext CalcMultiplyTest_VS2010.MultiplyTest::get_TestContext()</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="40" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="41" ordinal="1" offset="1" sl="34" sc="17" el="34" ec="44" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="42" ordinal="2" offset="10" sl="35" sc="13" el="35" ec="14" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="40" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="5" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void CalcMultiplyTest_VS2010.MultiplyTest::set_TestContext(Microsoft.VisualStudio.TestTools.UnitTesting.TestContext)</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="43" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="44" ordinal="1" offset="1" sl="38" sc="17" el="38" ec="45" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="45" ordinal="2" offset="8" sl="39" sc="13" el="39" ec="14" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="43" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="5" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void CalcMultiplyTest_VS2010.MultiplyTest::.ctor()</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="46" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="30" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="47" ordinal="1" offset="7" sl="18" sc="9" el="18" ec="10" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="48" ordinal="2" offset="8" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="46" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="30" bec="0" bev="0" fileid="5" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void CalcMultiplyTest_VS2010.MultiplyTest::TestMultiply()</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="49" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="50" ordinal="1" offset="1" sl="67" sc="13" el="67" ec="55" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="51" ordinal="2" offset="17" sl="68" sc="9" el="68" ec="10" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="49" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="5" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void CalcMultiplyTest_VS2010.MultiplyTest::TestCallGetContextInMultiplyTest()</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="52" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="53" ordinal="1" offset="1" sl="73" sc="13" el="73" ec="47" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="54" ordinal="2" offset="8" sl="74" sc="13" el="74" ec="58" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="55" ordinal="3" offset="21" sl="75" sc="9" el="75" ec="10" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="52" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="5" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="1A-90-04-55-09-EC-E5-B9-0D-3F-26-25-62-AB-3F-B5-8F-9B-26-B3">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.ControllerObject\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.ControllerObject.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.ControllerObject</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="4A-2E-2F-B0-09-7B-BA-3A-4D-7B-5C-2A-00-CD-52-75-5D-48-E0-0D">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.AgentProcessManager\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.AgentProcessManager.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.AgentProcessManager</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="65-BE-6B-9B-9C-55-6A-4D-DB-BD-03-60-FD-69-20-48-31-78-A9-5B">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="81-DC-10-5F-65-71-40-4C-64-6A-8F-FE-B7-2B-68-B1-68-9D-66-74">
+      <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="6" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+      <FullName>c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcaddtest_vs2010\bin\debug\MyLibrary_VS2010.dll</FullName>
+      <ModuleName>MyLibrary_VS2010</ModuleName>
+      <Files>
+        <File uid="7" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\MyLibrary_VS2010\Calc.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="6" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+          <FullName>MyLibrary_VS2010.Calc</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Add(System.Int32,System.Int32)</Name>
+              <FileRef uid="7" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="56" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="57" ordinal="1" offset="1" sl="13" sc="13" el="13" ec="33" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="58" ordinal="2" offset="7" sl="14" sc="9" el="14" ec="10" bec="0" bev="0" fileid="7" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="56" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="7" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Multiply(System.Int32,System.Int32)</Name>
+              <FileRef uid="7" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="59" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="10" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="60" ordinal="1" offset="1" sl="18" sc="13" el="18" ec="33" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="61" ordinal="2" offset="7" sl="19" sc="9" el="19" ec="10" bec="0" bev="0" fileid="7" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="59" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="10" bec="0" bev="0" fileid="7" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="2" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="7" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Divide(System.Int32,System.Int32)</Name>
+              <FileRef uid="7" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="62" ordinal="0" offset="0" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="63" ordinal="1" offset="1" sl="23" sc="13" el="23" ec="28" bec="2" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="64" ordinal="2" offset="12" sl="24" sc="13" el="24" ec="14" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="65" ordinal="3" offset="13" sl="25" sc="17" el="25" ec="63" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="66" ordinal="4" offset="24" sl="26" sc="17" el="26" ec="26" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="67" ordinal="5" offset="28" sl="29" sc="13" el="29" ec="33" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="68" ordinal="6" offset="34" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="7" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="69" ordinal="0" offset="10" path="0" offsetchain="" offsetend="12" />
+                <BranchPoint vc="0" uspid="70" ordinal="1" offset="10" path="1" offsetchain="" offsetend="28" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="62" ordinal="0" offset="0" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="7" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void MyLibrary_VS2010.Calc::horrible_code(System.Int32&amp;)</Name>
+              <FileRef uid="7" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="71" ordinal="0" offset="0" sl="33" sc="9" el="33" ec="10" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="72" ordinal="1" offset="1" sl="34" sc="13" el="34" ec="25" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="73" ordinal="2" offset="5" sl="35" sc="9" el="35" ec="10" bec="0" bev="0" fileid="7" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="71" ordinal="0" offset="0" sl="33" sc="9" el="33" ec="10" bec="0" bev="0" fileid="7" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void MyLibrary_VS2010.Calc::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="74" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="81-DC-10-5F-65-71-40-4C-64-6A-8F-FE-B7-2B-68-B1-68-9D-66-74">
+      <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="6" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+      <FullName>c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcmultiplytest_vs2010\bin\debug\MyLibrary_VS2010.dll</FullName>
+      <ModuleName>MyLibrary_VS2010</ModuleName>
+      <Files>
+        <File uid="9" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\MyLibrary_VS2010\Calc.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="6" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+          <FullName>MyLibrary_VS2010.Calc</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Add(System.Int32,System.Int32)</Name>
+              <FileRef uid="9" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="75" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="76" ordinal="1" offset="1" sl="13" sc="13" el="13" ec="33" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="77" ordinal="2" offset="7" sl="14" sc="9" el="14" ec="10" bec="0" bev="0" fileid="9" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="75" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="9" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Multiply(System.Int32,System.Int32)</Name>
+              <FileRef uid="9" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="78" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="10" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="79" ordinal="1" offset="1" sl="18" sc="13" el="18" ec="33" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="80" ordinal="2" offset="7" sl="19" sc="9" el="19" ec="10" bec="0" bev="0" fileid="9" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="78" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="10" bec="0" bev="0" fileid="9" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="2" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="7" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Divide(System.Int32,System.Int32)</Name>
+              <FileRef uid="9" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="81" ordinal="0" offset="0" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="82" ordinal="1" offset="1" sl="23" sc="13" el="23" ec="28" bec="2" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="83" ordinal="2" offset="12" sl="24" sc="13" el="24" ec="14" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="84" ordinal="3" offset="13" sl="25" sc="17" el="25" ec="63" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="85" ordinal="4" offset="24" sl="26" sc="17" el="26" ec="26" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="86" ordinal="5" offset="28" sl="29" sc="13" el="29" ec="33" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="87" ordinal="6" offset="34" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="9" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="88" ordinal="0" offset="10" path="0" offsetchain="" offsetend="12" />
+                <BranchPoint vc="0" uspid="89" ordinal="1" offset="10" path="1" offsetchain="" offsetend="28" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="81" ordinal="0" offset="0" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="9" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void MyLibrary_VS2010.Calc::horrible_code(System.Int32&amp;)</Name>
+              <FileRef uid="9" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="90" ordinal="0" offset="0" sl="33" sc="9" el="33" ec="10" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="91" ordinal="1" offset="1" sl="34" sc="13" el="34" ec="25" bec="0" bev="0" fileid="9" />
+                <SequencePoint vc="0" uspid="92" ordinal="2" offset="5" sl="35" sc="9" el="35" ec="10" bec="0" bev="0" fileid="9" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="90" ordinal="0" offset="0" sl="33" sc="9" el="33" ec="10" bec="0" bev="0" fileid="9" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void MyLibrary_VS2010.Calc::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="93" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="81-DC-10-5F-65-71-40-4C-64-6A-8F-FE-B7-2B-68-B1-68-9D-66-74">
+      <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="6" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+      <FullName>c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcdividetest_vs2010\bin\debug\MyLibrary_VS2010.dll</FullName>
+      <ModuleName>MyLibrary_VS2010</ModuleName>
+      <Files>
+        <File uid="11" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\MyLibrary_VS2010\Calc.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="16" visitedSequencePoints="0" numBranchPoints="6" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+          <FullName>MyLibrary_VS2010.Calc</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Add(System.Int32,System.Int32)</Name>
+              <FileRef uid="11" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="94" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="95" ordinal="1" offset="1" sl="13" sc="13" el="13" ec="33" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="96" ordinal="2" offset="7" sl="14" sc="9" el="14" ec="10" bec="0" bev="0" fileid="11" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="94" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="11" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Multiply(System.Int32,System.Int32)</Name>
+              <FileRef uid="11" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="97" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="10" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="98" ordinal="1" offset="1" sl="18" sc="13" el="18" ec="33" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="99" ordinal="2" offset="7" sl="19" sc="9" el="19" ec="10" bec="0" bev="0" fileid="11" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="97" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="10" bec="0" bev="0" fileid="11" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="2" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="7" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Divide(System.Int32,System.Int32)</Name>
+              <FileRef uid="11" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="100" ordinal="0" offset="0" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="101" ordinal="1" offset="1" sl="23" sc="13" el="23" ec="28" bec="2" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="102" ordinal="2" offset="12" sl="24" sc="13" el="24" ec="14" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="103" ordinal="3" offset="13" sl="25" sc="17" el="25" ec="63" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="104" ordinal="4" offset="24" sl="26" sc="17" el="26" ec="26" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="105" ordinal="5" offset="28" sl="29" sc="13" el="29" ec="33" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="106" ordinal="6" offset="34" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="11" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="107" ordinal="0" offset="10" path="0" offsetchain="" offsetend="12" />
+                <BranchPoint vc="0" uspid="108" ordinal="1" offset="10" path="1" offsetchain="" offsetend="28" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="100" ordinal="0" offset="0" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="11" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void MyLibrary_VS2010.Calc::horrible_code(System.Int32&amp;)</Name>
+              <FileRef uid="11" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="109" ordinal="0" offset="0" sl="33" sc="9" el="33" ec="10" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="110" ordinal="1" offset="1" sl="34" sc="13" el="34" ec="25" bec="0" bev="0" fileid="11" />
+                <SequencePoint vc="0" uspid="111" ordinal="2" offset="5" sl="35" sc="9" el="35" ec="10" bec="0" bev="0" fileid="11" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="109" ordinal="0" offset="0" sl="33" sc="9" el="33" ec="10" bec="0" bev="0" fileid="11" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void MyLibrary_VS2010.Calc::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="112" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="Filter" hash="E9-A8-6A-CC-31-FF-25-91-E6-86-F2-D5-72-EE-77-7D-AB-36-F0-0B">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="25-54-C7-05-A8-4A-83-32-90-0C-90-FB-AE-3C-7F-C6-0D-DF-62-91">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\QTAgent32.exe</FullName>
+      <ModuleName>QTAgent32</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="0F-07-95-F4-06-60-B0-91-D8-2F-F7-51-A7-F3-27-5B-67-A8-E7-2A">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.ExecutionCommon\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.ExecutionCommon</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="DF-41-96-FA-37-22-C0-47-06-73-92-94-39-3E-F8-9C-71-77-58-80">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Resource\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Resource.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Resource</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-46-4B-BE-28-40-30-A2-E6-52-58-36-C3-F3-E3-75-03-AF-F4-FC">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-6E-E8-4F-40-6A-75-31-1B-08-C2-22-D5-EA-FE-23-3B-7B-82-15">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2E-28-A3-E7-4F-05-75-91-3B-B4-A6-B7-58-E7-27-B0-EF-F7-52-11">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F0-AC-29-46-F9-CE-FF-96-AE-EE-4F-C0-DE-9E-59-D3-7E-1B-ED-08">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</FullName>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="65-BE-6B-9B-9C-55-6A-4D-DB-BD-03-60-FD-69-20-48-31-78-A9-5B">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="EF-C2-B4-43-29-1A-CA-59-51-9D-FA-BC-B6-EA-1C-30-BE-6F-53-76">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.AgentObject\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.AgentObject.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.AgentObject</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="4A-2E-2F-B0-09-7B-BA-3A-4D-7B-5C-2A-00-CD-52-75-5D-48-E0-0D">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.AgentProcessManager\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.AgentProcessManager.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.AgentProcessManager</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="ED-71-AA-D1-28-9F-3A-03-35-2F-8B-6F-2D-56-17-E0-2A-D3-EF-A3">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AF-05-8D-43-E3-DA-AB-39-5E-1C-C1-7D-03-30-C2-CD-51-4C-F7-2E">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="83-92-A6-61-AB-24-2D-60-6E-B3-F0-4C-6A-F3-38-AF-4E-6E-B8-30">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll</FullName>
+      <ModuleName>System.Data</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="1A-8E-7F-63-79-81-73-62-C8-B6-77-39-F8-97-1B-CB-6B-2B-67-76">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.UnitTestFramework\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.UnitTestFramework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="1D-0B-A5-FA-5F-CA-17-86-22-D9-E4-DE-E5-10-21-8E-61-A8-70-7D">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="BD-91-25-5D-5B-40-91-44-C6-CC-30-E7-84-09-1F-EC-32-46-EF-F1">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="1D-0B-A5-FA-5F-CA-17-86-22-D9-E4-DE-E5-10-21-8E-61-A8-70-7D">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="C5-B8-96-9D-75-88-4D-A8-A3-51-16-8E-7E-D0-55-5E-CD-4C-2C-41">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Enterprise.AspNetHelper.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.Enterprise.AspNetHelper</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="0F-07-95-F4-06-60-B0-91-D8-2F-F7-51-A7-F3-27-5B-67-A8-E7-2A">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.ExecutionCommon\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.ExecutionCommon</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="EF-C2-B4-43-29-1A-CA-59-51-9D-FA-BC-B6-EA-1C-30-BE-6F-53-76">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.AgentObject\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.AgentObject.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.AgentObject</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AF-05-8D-43-E3-DA-AB-39-5E-1C-C1-7D-03-30-C2-CD-51-4C-F7-2E">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="06-1B-19-84-D1-63-F4-8D-A6-F1-31-7C-95-24-C2-2B-AC-C8-8C-C9">
+      <Summary numSequencePoints="16" visitedSequencePoints="16" numBranchPoints="5" visitedBranchPoints="5" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+      <FullName>C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\cstan_AMK3202L6225-CC 2014-06-17 18_30_39\Out\CalcAddTest_VS2010.dll</FullName>
+      <ModuleName>CalcAddTest_VS2010</ModuleName>
+      <Files>
+        <File uid="13" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcAddTest_VS2010\AddTest.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="16" visitedSequencePoints="16" numBranchPoints="5" visitedBranchPoints="5" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>CalcAddTest_VS2010.AddTest</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>Microsoft.VisualStudio.TestTools.UnitTesting.TestContext CalcAddTest_VS2010.AddTest::get_TestContext()</Name>
+              <FileRef uid="13" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="113" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="2" uspid="114" ordinal="1" offset="1" sl="34" sc="17" el="34" ec="44" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="2" uspid="115" ordinal="2" offset="10" sl="35" sc="13" el="35" ec="14" bec="0" bev="0" fileid="13" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="113" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="13" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void CalcAddTest_VS2010.AddTest::set_TestContext(Microsoft.VisualStudio.TestTools.UnitTesting.TestContext)</Name>
+              <FileRef uid="13" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="116" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="2" uspid="117" ordinal="1" offset="1" sl="38" sc="17" el="38" ec="45" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="2" uspid="118" ordinal="2" offset="8" sl="39" sc="13" el="39" ec="14" bec="0" bev="0" fileid="13" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="116" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="13" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void CalcAddTest_VS2010.AddTest::.ctor()</Name>
+              <FileRef uid="13" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="119" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="25" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="2" uspid="120" ordinal="1" offset="7" sl="18" sc="9" el="18" ec="10" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="2" uspid="121" ordinal="2" offset="8" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="13" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="119" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="25" bec="0" bev="0" fileid="13" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void CalcAddTest_VS2010.AddTest::TestAdd()</Name>
+              <FileRef uid="13" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="122" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="1" uspid="123" ordinal="1" offset="1" sl="67" sc="13" el="67" ec="50" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="1" uspid="124" ordinal="2" offset="17" sl="68" sc="9" el="68" ec="10" bec="0" bev="0" fileid="13" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="122" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="13" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void CalcAddTest_VS2010.AddTest::TestCallGetContextInAddTest()</Name>
+              <FileRef uid="13" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="125" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="1" uspid="126" ordinal="1" offset="1" sl="73" sc="13" el="73" ec="47" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="1" uspid="127" ordinal="2" offset="8" sl="74" sc="13" el="74" ec="58" bec="0" bev="0" fileid="13" />
+                <SequencePoint vc="1" uspid="128" ordinal="3" offset="21" sl="75" sc="9" el="75" ec="10" bec="0" bev="0" fileid="13" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="125" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="13" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module hash="81-DC-10-5F-65-71-40-4C-64-6A-8F-FE-B7-2B-68-B1-68-9D-66-74">
+      <Summary numSequencePoints="16" visitedSequencePoints="16" numBranchPoints="6" visitedBranchPoints="6" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+      <FullName>C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\cstan_AMK3202L6225-CC 2014-06-17 18_30_39\Out\MyLibrary_VS2010.dll</FullName>
+      <ModuleName>MyLibrary_VS2010</ModuleName>
+      <Files>
+        <File uid="15" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\MyLibrary_VS2010\Calc.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="16" visitedSequencePoints="16" numBranchPoints="6" visitedBranchPoints="6" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+          <FullName>MyLibrary_VS2010.Calc</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Add(System.Int32,System.Int32)</Name>
+              <FileRef uid="15" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="129" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="1" uspid="130" ordinal="1" offset="1" sl="13" sc="13" el="13" ec="33" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="1" uspid="131" ordinal="2" offset="7" sl="14" sc="9" el="14" ec="10" bec="0" bev="0" fileid="15" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="129" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="15" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Multiply(System.Int32,System.Int32)</Name>
+              <FileRef uid="15" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="132" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="10" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="1" uspid="133" ordinal="1" offset="1" sl="18" sc="13" el="18" ec="33" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="1" uspid="134" ordinal="2" offset="7" sl="19" sc="9" el="19" ec="10" bec="0" bev="0" fileid="15" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="132" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="10" bec="0" bev="0" fileid="15" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="7" visitedSequencePoints="7" numBranchPoints="3" visitedBranchPoints="3" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Int32 MyLibrary_VS2010.Calc::Divide(System.Int32,System.Int32)</Name>
+              <FileRef uid="15" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="135" ordinal="0" offset="0" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="2" uspid="136" ordinal="1" offset="1" sl="23" sc="13" el="23" ec="28" bec="2" bev="2" fileid="15" />
+                <SequencePoint vc="1" uspid="137" ordinal="2" offset="12" sl="24" sc="13" el="24" ec="14" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="1" uspid="138" ordinal="3" offset="13" sl="25" sc="17" el="25" ec="63" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="1" uspid="139" ordinal="4" offset="24" sl="26" sc="17" el="26" ec="26" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="1" uspid="140" ordinal="5" offset="28" sl="29" sc="13" el="29" ec="33" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="2" uspid="141" ordinal="6" offset="34" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="15" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="1" uspid="142" ordinal="0" offset="10" path="0" offsetchain="" offsetend="12" />
+                <BranchPoint vc="1" uspid="143" ordinal="1" offset="10" path="1" offsetchain="" offsetend="28" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="135" ordinal="0" offset="0" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="15" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void MyLibrary_VS2010.Calc::horrible_code(System.Int32&amp;)</Name>
+              <FileRef uid="15" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="144" ordinal="0" offset="0" sl="33" sc="9" el="33" ec="10" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="1" uspid="145" ordinal="1" offset="1" sl="34" sc="13" el="34" ec="25" bec="0" bev="0" fileid="15" />
+                <SequencePoint vc="1" uspid="146" ordinal="2" offset="5" sl="35" sc="9" el="35" ec="10" bec="0" bev="0" fileid="15" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="144" ordinal="0" offset="0" sl="33" sc="9" el="33" ec="10" bec="0" bev="0" fileid="15" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void MyLibrary_VS2010.Calc::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="147" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="1D-0B-A5-FA-5F-CA-17-86-22-D9-E4-DE-E5-10-21-8E-61-A8-70-7D">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="C5-B8-96-9D-75-88-4D-A8-A3-51-16-8E-7E-D0-55-5E-CD-4C-2C-41">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Enterprise.AspNetHelper.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.Enterprise.AspNetHelper</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="0F-07-95-F4-06-60-B0-91-D8-2F-F7-51-A7-F3-27-5B-67-A8-E7-2A">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.ExecutionCommon\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.ExecutionCommon</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="EF-C2-B4-43-29-1A-CA-59-51-9D-FA-BC-B6-EA-1C-30-BE-6F-53-76">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.AgentObject\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.AgentObject.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.AgentObject</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AF-05-8D-43-E3-DA-AB-39-5E-1C-C1-7D-03-30-C2-CD-51-4C-F7-2E">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="36-34-7B-E8-BB-85-DC-1F-0C-04-26-EB-9B-A3-24-20-F5-4F-2D-54">
+      <Summary numSequencePoints="23" visitedSequencePoints="23" numBranchPoints="7" visitedBranchPoints="7" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+      <FullName>C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\cstan_AMK3202L6225-CC 2014-06-17 18_30_39\Out\CalcDivideTest_VS2010.dll</FullName>
+      <ModuleName>CalcDivideTest_VS2010</ModuleName>
+      <Files>
+        <File uid="17" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcDivideTest_VS2010\DivideTest.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="23" visitedSequencePoints="23" numBranchPoints="7" visitedBranchPoints="7" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>CalcDivideTest_VS2010.DivideTest</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>Microsoft.VisualStudio.TestTools.UnitTesting.TestContext CalcDivideTest_VS2010.DivideTest::get_TestContext()</Name>
+              <FileRef uid="17" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="148" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="2" uspid="149" ordinal="1" offset="1" sl="34" sc="17" el="34" ec="44" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="2" uspid="150" ordinal="2" offset="10" sl="35" sc="13" el="35" ec="14" bec="0" bev="0" fileid="17" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="148" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="17" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::set_TestContext(Microsoft.VisualStudio.TestTools.UnitTesting.TestContext)</Name>
+              <FileRef uid="17" />
+              <SequencePoints>
+                <SequencePoint vc="4" uspid="151" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="4" uspid="152" ordinal="1" offset="1" sl="38" sc="17" el="38" ec="45" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="4" uspid="153" ordinal="2" offset="8" sl="39" sc="13" el="39" ec="14" bec="0" bev="0" fileid="17" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="4" uspid="151" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="17" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::.ctor()</Name>
+              <FileRef uid="17" />
+              <SequencePoints>
+                <SequencePoint vc="4" uspid="154" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="28" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="4" uspid="155" ordinal="1" offset="7" sl="18" sc="9" el="18" ec="10" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="4" uspid="156" ordinal="2" offset="8" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="17" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="4" uspid="154" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="28" bec="0" bev="0" fileid="17" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::TestDivide()</Name>
+              <FileRef uid="17" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="157" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="158" ordinal="1" offset="1" sl="67" sc="13" el="67" ec="53" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="159" ordinal="2" offset="17" sl="68" sc="9" el="68" ec="10" bec="0" bev="0" fileid="17" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="157" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="17" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::TestCallGetContextInDivideTest()</Name>
+              <FileRef uid="17" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="160" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="161" ordinal="1" offset="1" sl="73" sc="13" el="73" ec="47" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="162" ordinal="2" offset="8" sl="74" sc="13" el="74" ec="58" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="163" ordinal="3" offset="21" sl="75" sc="9" el="75" ec="10" bec="0" bev="0" fileid="17" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="160" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="17" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::TestDivisionByZero()</Name>
+              <FileRef uid="17" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="164" ordinal="0" offset="0" sl="79" sc="9" el="79" ec="10" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="165" ordinal="1" offset="1" sl="80" sc="13" el="80" ec="31" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="166" ordinal="2" offset="9" sl="81" sc="9" el="81" ec="10" bec="0" bev="0" fileid="17" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="164" ordinal="0" offset="0" sl="79" sc="9" el="79" ec="10" bec="0" bev="0" fileid="17" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void CalcDivideTest_VS2010.DivideTest::TestCallHorribleCode()</Name>
+              <FileRef uid="17" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="167" ordinal="0" offset="0" sl="85" sc="9" el="85" ec="10" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="168" ordinal="1" offset="1" sl="86" sc="13" el="86" ec="28" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="169" ordinal="2" offset="3" sl="87" sc="13" el="87" ec="44" bec="0" bev="0" fileid="17" />
+                <SequencePoint vc="1" uspid="170" ordinal="3" offset="11" sl="88" sc="9" el="88" ec="10" bec="0" bev="0" fileid="17" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="167" ordinal="0" offset="0" sl="85" sc="9" el="85" ec="10" bec="0" bev="0" fileid="17" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F0-EE-63-2A-D5-7A-B7-F6-E9-77-28-25-20-EF-5A-4A-83-A6-F3-B7">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Licensing.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.TeamSystem.Licensing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="1D-0B-A5-FA-5F-CA-17-86-22-D9-E4-DE-E5-10-21-8E-61-A8-70-7D">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="C5-B8-96-9D-75-88-4D-A8-A3-51-16-8E-7E-D0-55-5E-CD-4C-2C-41">
+      <FullName>C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Enterprise.AspNetHelper.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.Enterprise.AspNetHelper</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="0F-07-95-F4-06-60-B0-91-D8-2F-F7-51-A7-F3-27-5B-67-A8-E7-2A">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.ExecutionCommon\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.ExecutionCommon</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="92-C8-F7-DF-90-C8-4E-CE-BF-D1-8E-91-A5-BF-15-7A-B3-27-FF-AB">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Common\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Common.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Common</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="EF-C2-B4-43-29-1A-CA-59-51-9D-FA-BC-B6-EA-1C-30-BE-6F-53-76">
+      <FullName>C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.AgentObject\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.AgentObject.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.AgentObject</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AF-05-8D-43-E3-DA-AB-39-5E-1C-C1-7D-03-30-C2-CD-51-4C-F7-2E">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll</FullName>
+      <ModuleName>Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="BB-04-95-33-15-63-A8-DB-BE-DD-4B-6F-78-0D-26-C3-BE-8C-14-60">
+      <Summary numSequencePoints="16" visitedSequencePoints="16" numBranchPoints="5" visitedBranchPoints="5" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+      <FullName>C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\cstan_AMK3202L6225-CC 2014-06-17 18_30_39\Out\CalcMultiplyTest_VS2010.dll</FullName>
+      <ModuleName>CalcMultiplyTest_VS2010</ModuleName>
+      <Files>
+        <File uid="19" fullPath="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010\CalcMultiplyTest_VS2010\MultiplyTest.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="16" visitedSequencePoints="16" numBranchPoints="5" visitedBranchPoints="5" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>CalcMultiplyTest_VS2010.MultiplyTest</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>Microsoft.VisualStudio.TestTools.UnitTesting.TestContext CalcMultiplyTest_VS2010.MultiplyTest::get_TestContext()</Name>
+              <FileRef uid="19" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="171" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="2" uspid="172" ordinal="1" offset="1" sl="34" sc="17" el="34" ec="44" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="2" uspid="173" ordinal="2" offset="10" sl="35" sc="13" el="35" ec="14" bec="0" bev="0" fileid="19" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="171" ordinal="0" offset="0" sl="33" sc="13" el="33" ec="14" bec="0" bev="0" fileid="19" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void CalcMultiplyTest_VS2010.MultiplyTest::set_TestContext(Microsoft.VisualStudio.TestTools.UnitTesting.TestContext)</Name>
+              <FileRef uid="19" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="174" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="2" uspid="175" ordinal="1" offset="1" sl="38" sc="17" el="38" ec="45" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="2" uspid="176" ordinal="2" offset="8" sl="39" sc="13" el="39" ec="14" bec="0" bev="0" fileid="19" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="174" ordinal="0" offset="0" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="19" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void CalcMultiplyTest_VS2010.MultiplyTest::.ctor()</Name>
+              <FileRef uid="19" />
+              <SequencePoints>
+                <SequencePoint vc="2" uspid="177" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="30" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="2" uspid="178" ordinal="1" offset="7" sl="18" sc="9" el="18" ec="10" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="2" uspid="179" ordinal="2" offset="8" sl="22" sc="9" el="22" ec="10" bec="0" bev="0" fileid="19" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="2" uspid="177" ordinal="0" offset="0" sl="17" sc="9" el="17" ec="30" bec="0" bev="0" fileid="19" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void CalcMultiplyTest_VS2010.MultiplyTest::TestMultiply()</Name>
+              <FileRef uid="19" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="180" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="1" uspid="181" ordinal="1" offset="1" sl="67" sc="13" el="67" ec="55" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="1" uspid="182" ordinal="2" offset="17" sl="68" sc="9" el="68" ec="10" bec="0" bev="0" fileid="19" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="180" ordinal="0" offset="0" sl="66" sc="9" el="66" ec="10" bec="0" bev="0" fileid="19" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void CalcMultiplyTest_VS2010.MultiplyTest::TestCallGetContextInMultiplyTest()</Name>
+              <FileRef uid="19" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="183" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="1" uspid="184" ordinal="1" offset="1" sl="73" sc="13" el="73" ec="47" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="1" uspid="185" ordinal="2" offset="8" sl="74" sc="13" el="74" ec="58" bec="0" bev="0" fileid="19" />
+                <SequencePoint vc="1" uspid="186" ordinal="3" offset="21" sl="75" sc="9" el="75" ec="10" bec="0" bev="0" fileid="19" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="183" ordinal="0" offset="0" sl="72" sc="9" el="72" ec="10" bec="0" bev="0" fileid="19" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>

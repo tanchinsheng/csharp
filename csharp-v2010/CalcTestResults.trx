@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="23bd823f-ff63-4c2c-8eb4-58ad75347dc3" name="cstan@AMK3202L6225-CC 2014-06-17 18:30:39" runUser="AMK3202L6225-CC\cstan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="d949491a-c774-4852-8aa0-d6fe2298d44a">
+    <Deployment userDeploymentRoot="C:\Java\sonarqube-4.3.1\SonarSource-sonar-examples\projects\languages\csharp-v2010" useDefaultDeploymentRoot="false" runDeploymentRoot="cstan_AMK3202L6225-CC 2014-06-17 18_30_39" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-17T18:30:39.7254591+08:00" queuing="2014-06-17T18:30:42.5156187+08:00" start="2014-06-17T18:30:42.7966347+08:00" finish="2014-06-17T18:30:43.9787024+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestAdd" storage="c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcaddtest_vs2010\bin\debug\calcaddtest_vs2010.dll" id="7be736c4-d19d-8b08-d59a-0586034eab19">
+      <Execution id="78930634-bd8d-41fc-b2e2-087ad0f3c655" />
+      <TestMethod codeBase="C:/Java/sonarqube-4.3.1/SonarSource-sonar-examples/projects/languages/csharp-v2010/CalcAddTest_VS2010/bin/Debug/CalcAddTest_VS2010.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalcAddTest_VS2010.AddTest, CalcAddTest_VS2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAdd" />
+    </UnitTest>
+    <UnitTest name="TestMultiply" storage="c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcmultiplytest_vs2010\bin\debug\calcmultiplytest_vs2010.dll" id="09962acf-9fd4-05e5-bd03-a1e7464708a0">
+      <Execution id="014efe59-3e39-4a98-ae67-b2af17c83566" />
+      <TestMethod codeBase="C:/Java/sonarqube-4.3.1/SonarSource-sonar-examples/projects/languages/csharp-v2010/CalcMultiplyTest_VS2010/bin/Debug/CalcMultiplyTest_VS2010.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalcMultiplyTest_VS2010.MultiplyTest, CalcMultiplyTest_VS2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMultiply" />
+    </UnitTest>
+    <UnitTest name="TestDivide" storage="c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcdividetest_vs2010\bin\debug\calcdividetest_vs2010.dll" id="c63f63e1-cc27-3c9e-b6ac-58cca4b6eb30">
+      <Execution id="0d99c8f3-5966-43dd-850a-67b701610ec8" />
+      <TestMethod codeBase="C:/Java/sonarqube-4.3.1/SonarSource-sonar-examples/projects/languages/csharp-v2010/CalcDivideTest_VS2010/bin/Debug/CalcDivideTest_VS2010.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalcDivideTest_VS2010.DivideTest, CalcDivideTest_VS2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDivide" />
+    </UnitTest>
+    <UnitTest name="TestCallHorribleCode" storage="c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcdividetest_vs2010\bin\debug\calcdividetest_vs2010.dll" id="11863ae3-093d-8d5f-2446-843a5daef324">
+      <Execution id="5f7aa4f5-8772-43c3-899d-bcedc5ed65a8" />
+      <TestMethod codeBase="C:/Java/sonarqube-4.3.1/SonarSource-sonar-examples/projects/languages/csharp-v2010/CalcDivideTest_VS2010/bin/Debug/CalcDivideTest_VS2010.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalcDivideTest_VS2010.DivideTest, CalcDivideTest_VS2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCallHorribleCode" />
+    </UnitTest>
+    <UnitTest name="TestCallGetContextInDivideTest" storage="c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcdividetest_vs2010\bin\debug\calcdividetest_vs2010.dll" id="179b2733-a0c9-83e2-e3b4-a33f8dffb314">
+      <Execution id="e1b91e7c-3433-42a6-bcc0-281a054474a4" />
+      <TestMethod codeBase="C:/Java/sonarqube-4.3.1/SonarSource-sonar-examples/projects/languages/csharp-v2010/CalcDivideTest_VS2010/bin/Debug/CalcDivideTest_VS2010.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalcDivideTest_VS2010.DivideTest, CalcDivideTest_VS2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCallGetContextInDivideTest" />
+    </UnitTest>
+    <UnitTest name="TestDivisionByZero" storage="c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcdividetest_vs2010\bin\debug\calcdividetest_vs2010.dll" id="656f5114-9dea-c728-904b-4de22531bc15">
+      <Execution id="60732073-3bf3-4c77-9e75-bfa57419cfd1" />
+      <TestMethod codeBase="C:/Java/sonarqube-4.3.1/SonarSource-sonar-examples/projects/languages/csharp-v2010/CalcDivideTest_VS2010/bin/Debug/CalcDivideTest_VS2010.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalcDivideTest_VS2010.DivideTest, CalcDivideTest_VS2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDivisionByZero" />
+    </UnitTest>
+    <UnitTest name="TestCallGetContextInAddTest" storage="c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcaddtest_vs2010\bin\debug\calcaddtest_vs2010.dll" id="af9c4f28-7fcb-9b50-b8ba-6e2a301e65fd">
+      <Execution id="acf0550f-ebd3-4eeb-917b-140d4fae793d" />
+      <TestMethod codeBase="C:/Java/sonarqube-4.3.1/SonarSource-sonar-examples/projects/languages/csharp-v2010/CalcAddTest_VS2010/bin/Debug/CalcAddTest_VS2010.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalcAddTest_VS2010.AddTest, CalcAddTest_VS2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCallGetContextInAddTest" />
+    </UnitTest>
+    <UnitTest name="TestCallGetContextInMultiplyTest" storage="c:\java\sonarqube-4.3.1\sonarsource-sonar-examples\projects\languages\csharp-v2010\calcmultiplytest_vs2010\bin\debug\calcmultiplytest_vs2010.dll" id="af3660e8-3008-5852-8c0e-dc4bc9b7f230">
+      <Execution id="0492aa01-f729-46a2-bdc4-7796d5b913d6" />
+      <TestMethod codeBase="C:/Java/sonarqube-4.3.1/SonarSource-sonar-examples/projects/languages/csharp-v2010/CalcMultiplyTest_VS2010/bin/Debug/CalcMultiplyTest_VS2010.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalcMultiplyTest_VS2010.MultiplyTest, CalcMultiplyTest_VS2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCallGetContextInMultiplyTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7be736c4-d19d-8b08-d59a-0586034eab19" executionId="78930634-bd8d-41fc-b2e2-087ad0f3c655" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="af9c4f28-7fcb-9b50-b8ba-6e2a301e65fd" executionId="acf0550f-ebd3-4eeb-917b-140d4fae793d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="179b2733-a0c9-83e2-e3b4-a33f8dffb314" executionId="e1b91e7c-3433-42a6-bcc0-281a054474a4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="11863ae3-093d-8d5f-2446-843a5daef324" executionId="5f7aa4f5-8772-43c3-899d-bcedc5ed65a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c63f63e1-cc27-3c9e-b6ac-58cca4b6eb30" executionId="0d99c8f3-5966-43dd-850a-67b701610ec8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="656f5114-9dea-c728-904b-4de22531bc15" executionId="60732073-3bf3-4c77-9e75-bfa57419cfd1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="af3660e8-3008-5852-8c0e-dc4bc9b7f230" executionId="0492aa01-f729-46a2-bdc4-7796d5b913d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09962acf-9fd4-05e5-bd03-a1e7464708a0" executionId="014efe59-3e39-4a98-ae67-b2af17c83566" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="78930634-bd8d-41fc-b2e2-087ad0f3c655" testId="7be736c4-d19d-8b08-d59a-0586034eab19" testName="TestAdd" computerName="AMK3202L6225-CC" duration="00:00:00.0282504" startTime="2014-06-17T18:30:42.9116413+08:00" endTime="2014-06-17T18:30:43.4176703+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="78930634-bd8d-41fc-b2e2-087ad0f3c655">
+    </UnitTestResult>
+    <UnitTestResult executionId="acf0550f-ebd3-4eeb-917b-140d4fae793d" testId="af9c4f28-7fcb-9b50-b8ba-6e2a301e65fd" testName="TestCallGetContextInAddTest" computerName="AMK3202L6225-CC" duration="00:00:00.0012588" startTime="2014-06-17T18:30:43.4206704+08:00" endTime="2014-06-17T18:30:43.4386715+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="acf0550f-ebd3-4eeb-917b-140d4fae793d">
+    </UnitTestResult>
+    <UnitTestResult executionId="e1b91e7c-3433-42a6-bcc0-281a054474a4" testId="179b2733-a0c9-83e2-e3b4-a33f8dffb314" testName="TestCallGetContextInDivideTest" computerName="AMK3202L6225-CC" duration="00:00:00.0122570" startTime="2014-06-17T18:30:43.4396715+08:00" endTime="2014-06-17T18:30:43.6496835+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e1b91e7c-3433-42a6-bcc0-281a054474a4">
+    </UnitTestResult>
+    <UnitTestResult executionId="5f7aa4f5-8772-43c3-899d-bcedc5ed65a8" testId="11863ae3-093d-8d5f-2446-843a5daef324" testName="TestCallHorribleCode" computerName="AMK3202L6225-CC" duration="00:00:00.0028225" startTime="2014-06-17T18:30:43.6506836+08:00" endTime="2014-06-17T18:30:43.6576840+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5f7aa4f5-8772-43c3-899d-bcedc5ed65a8">
+    </UnitTestResult>
+    <UnitTestResult executionId="0d99c8f3-5966-43dd-850a-67b701610ec8" testId="c63f63e1-cc27-3c9e-b6ac-58cca4b6eb30" testName="TestDivide" computerName="AMK3202L6225-CC" duration="00:00:00.0014092" startTime="2014-06-17T18:30:43.6596841+08:00" endTime="2014-06-17T18:30:43.6646844+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0d99c8f3-5966-43dd-850a-67b701610ec8">
+    </UnitTestResult>
+    <UnitTestResult executionId="60732073-3bf3-4c77-9e75-bfa57419cfd1" testId="656f5114-9dea-c728-904b-4de22531bc15" testName="TestDivisionByZero" computerName="AMK3202L6225-CC" duration="00:00:00.0014221" startTime="2014-06-17T18:30:43.6666845+08:00" endTime="2014-06-17T18:30:43.6716848+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="60732073-3bf3-4c77-9e75-bfa57419cfd1">
+      <Output>
+        <StdOut>ERROR: Division by zero!</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0492aa01-f729-46a2-bdc4-7796d5b913d6" testId="af3660e8-3008-5852-8c0e-dc4bc9b7f230" testName="TestCallGetContextInMultiplyTest" computerName="AMK3202L6225-CC" duration="00:00:00.0102966" startTime="2014-06-17T18:30:43.6736849+08:00" endTime="2014-06-17T18:30:43.8776966+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0492aa01-f729-46a2-bdc4-7796d5b913d6">
+    </UnitTestResult>
+    <UnitTestResult executionId="014efe59-3e39-4a98-ae67-b2af17c83566" testId="09962acf-9fd4-05e5-bd03-a1e7464708a0" testName="TestMultiply" computerName="AMK3202L6225-CC" duration="00:00:00.0033517" startTime="2014-06-17T18:30:43.8796967+08:00" endTime="2014-06-17T18:30:43.8866971+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="014efe59-3e39-4a98-ae67-b2af17c83566">
+    </UnitTestResult>
+  </Results>
+</TestRun>
